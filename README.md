@@ -11,7 +11,7 @@ Level: Beginner
 Format: Workshop/classical training + hands-on
 Tools: Blender
 
-#Learning goas 
+##Learning goas 
 - explain what NPR is and where its used
 - Be able to use the correct tools to make your work better
 
